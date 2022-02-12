@@ -107,3 +107,4 @@ class ScanningFailure {
     // Returns the message associated with the exception.
     const std::string &what() const;
 };
+// provided by CS241
